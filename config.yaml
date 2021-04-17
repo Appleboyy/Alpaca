@@ -1,0 +1,3 @@
+self.key = 'PKCABGKYPPUSBQHWISUL'
+self.secret = '8iFfWfEVLcRiXU3ZtJqPSuI64gxWZ1xlRDIjvkb1'
+self.alpaca_endpoint = 'https://paper-api.alpaca.markets'
