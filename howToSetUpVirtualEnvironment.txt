@@ -1,0 +1,9 @@
+Steps to make virtual environment
+
+1. Cd into an empty folder
+2. Run python3 -m venv yourvenvname (python2 uses virtualenv)
+3. Run touch yourPythonFileName.py
+4. Open VScode, open the folder containing the virtual environment 
+5. Make sure the python interpreter (bottom left) is changed to python 3.x.x (‘yourvenvname’:venv)
+6. Use pip install to install your required packages into the folder
+7. If wanna export to GitHub run “pip freeze > requirements.txt” this will make a requirement.txt file with all the packages needed. Do not push the yourvenvname into GitHub 
